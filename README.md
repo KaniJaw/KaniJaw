@@ -1,4 +1,5 @@
-○　Hey developers!!
+Hey developers!!
+
 - I'm a KaniJaw and very fragile crab.
 - I'm just floating in a sea of developers without being able to swim.
 - I think I'll start by putting my face on the water.
